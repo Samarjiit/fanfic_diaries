@@ -40,6 +40,10 @@ a:active {
   background-color: #151515;
   padding-bottom: 3.6%;
 }
+.header-main-titles {
+  color: #fff;
+  font-size: 70px;
+}
 .header-main-title {
   color: #fff;
   font-size: 170px;
